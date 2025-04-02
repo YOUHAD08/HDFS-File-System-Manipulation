@@ -39,7 +39,7 @@ This project covers fundamental HDFS operations, including:
 ```sh
 hdfs dfs -mkdir -p /BDCC/{JAVA/{TPS,Cours}, CPP/{TPs, Cours}}
 ```
-![Directory Structure](images\Directory_Structure1.png)
+![Directory Structure](images/Directory_Structure1.png)
 ![Directory Structure](images\Directory_Structure2.png)
 ![Directory Structure](images\Directory_Structure3.png)
 ![Directory Structure](images\Directory_Structure4.png)
