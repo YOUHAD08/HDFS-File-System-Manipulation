@@ -89,7 +89,7 @@ hdfs dfs -rm /BDCC/JAVA/Cours/CoursCPP3
 ```
 ![Delete Files](images/Deleted_File.png)
 
-![Delete Files](images\Deleted_File2.png)
+![Delete Files](images/Deleted_File2.png)
 
 ```sh
 hdfs dfs -mv /BDCC/JAVA/Cours/CoursCPP1 /BDCC/JAVA/Cours/CoursJAVA1
@@ -117,7 +117,7 @@ hdfs dfs -put TP2JAVA /BDCC/JAVA/TPS
 hdfs dfs -put TP3JAVA /BDCC/JAVA/TPS
 ```
 ![Upload to HDFS](images/Upload_to_HDFS1.png)
-![Upload to HDFS](images\Upload_to_HDFS2.png)
+![Upload to HDFS](images/Upload_to_HDFS2.png)
 
 ### 8️⃣ Recursive Listing of Directory
 ```sh
