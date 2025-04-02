@@ -89,7 +89,7 @@ hdfs dfs -rm /BDCC/JAVA/Cours/CoursCPP3
 ```
 ![Answer](images/Deleted_File.png)
 
-![Structure](images/Copy_Files.png)
+![Structure](images/Deleted_File2.png)
 
 ```sh
 hdfs dfs -mv /BDCC/JAVA/Cours/CoursCPP1 /BDCC/JAVA/Cours/CoursJAVA1
