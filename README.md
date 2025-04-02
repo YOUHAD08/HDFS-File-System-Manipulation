@@ -87,8 +87,9 @@ hdfs dfs -cp /BDCC/CPP/Cours/* /BDCC/JAVA/Cours
 ```sh
 hdfs dfs -rm /BDCC/JAVA/Cours/CoursCPP3
 ```
-![Delete Files](images/Deleted_File.png)
-![Delete Files](images/Deleted_File2.png)
+![Answer](images/Deleted_File.png)
+
+![Structure](images/Deleted_File2.png)
 
 ```sh
 hdfs dfs -mv /BDCC/JAVA/Cours/CoursCPP1 /BDCC/JAVA/Cours/CoursJAVA1
